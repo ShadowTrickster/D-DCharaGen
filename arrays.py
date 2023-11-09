@@ -1,0 +1,10 @@
+import random
+titulo = random.choice(["Butcher", "Hero", "Song", "Fist"])
+city = random.choice(["Ikathia", "Eleanore", "Juatun"])
+pronoun = random.choice(["he", "she", "they"])
+y_o = random.choice(["young", "seasoned", "old"])
+race=random.choice(["human", "ork", "elven", "half-ork","homunculus"])
+tragedy_r = random.choice(["wonderful story!", "pity", "delightful fate"])
+k_name= random.choice(["Aaron", "Elaira", "Freya"])
+motivation_l = random.choice(["fun", "extasis", "forget"])
+pclass = random.choice(["warrior", "sourcerer", "berserker", "ranger", "rouge"])
