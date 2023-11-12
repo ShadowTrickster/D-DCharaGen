@@ -15,4 +15,4 @@ print(f"{name}, {a.titulo} of {a.city} was a {long_arrays.desc} capable of many 
       f"Curious enough {a.pronoun} has an ever changing story, almost as if someone or something was temepring with fate.\n"
       f"According to stories {a.pronoun} {long_arrays.tragedy} Such a {a.tragedy_r}.\n"
       f"No wonder {name} became a {a.pclass}.")
-
+print("Come back to the library whenever you need a new book, i'm lonely in here.")
